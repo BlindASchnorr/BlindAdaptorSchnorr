@@ -6,4 +6,4 @@
 	url = https://github.com/arkworks-rs/circom-compat
 [submodule "babyjubjub-rs"]
 	path = babyjubjub-rs
-	url = https://github.com/BlindASchnorr/babyjubjub-rs/tree/master
+	url = https://github.com/BlindASchnorr/babyjubjub-rs/
